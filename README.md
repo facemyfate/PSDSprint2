@@ -4,7 +4,7 @@
 We have two folders for two user stories, the Session Setup Story and the Timetable View Story.
 
 Session Setup Story
-----------------
+--------------------
 In Session Setup, it contains 
 - 
 - 
@@ -15,7 +15,7 @@ In Session Setup, it contains
 Each java file has information that is required to have a login page that allow users to create and save session.
 
 Timetable View Story
-----------------------------
+--------------------
 In Timetable View, it contains
 - 
 - 
