@@ -1,7 +1,27 @@
 **Sprint 2**
 =============
 
+We have two folders for two user stories, the Session Setup Story and the Timetable View Story.
 
+Session Setup Story
+----------------
+In Session Setup, it contains
+- 
+- 
+- 
+- 
+- 
+
+Each java file has information needed to . 
+
+Timetable View Story
+----------------------------
+In Timetable View, it contains
+- 
+- 
+- 
+- 
+- 
 
 Configuration
 --------------
