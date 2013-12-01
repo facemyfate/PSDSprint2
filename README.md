@@ -6,22 +6,22 @@ We have two folders for two user stories, the Session Setup Story and the Timeta
 Session Setup Story
 --------------------
 In Session Setup, it contains 
-- 
-- 
-- 
-- 
-- 
+- .java
+- .java
+- .java
+- .java
+- .java
 
 Each java file has information that is required to have a login page that allow users to create and save session.
 
 Timetable View Story
 --------------------
 In Timetable View, it contains
-- 
-- 
-- 
-- 
-- 
+- .java
+- .java
+- .java
+- .java
+- .java
 
 Each java file has information that is required to have a login page that has a view session button to view today, this week and full timetable and also it will work for all screen size.
 
